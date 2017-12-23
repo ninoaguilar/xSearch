@@ -29,9 +29,9 @@ make
 
 ## Running
 
-project should ask for input after proper build.
+Project should ask for input after proper build.
 
-displayed should be:
+Displayed should be:
 ```bash
 ███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
 ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
