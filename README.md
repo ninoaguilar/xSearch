@@ -4,7 +4,7 @@
 
 ## Reading files
 
-In order to read files being input, files must be stored in TextDocuments file and have the extension .txt and be in the format cranfield00XX.txt
+In order to read the files to be search, the files must be stored in the `TextDocuments` folder and have the extension `.txt` and be in the format `cranfield00XX.txt`.
 
 
 ## To Use
@@ -33,6 +33,15 @@ project should ask for input after proper build.
 
 displayed should be:
 ```bash
+███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
+███████╗█████╗  ███████║██████╔╝██║     ███████║
+╚════██║██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║
+███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+By: Nino Aguilar
+
+
 ------------------------------
 Enter search term: [enter your search terms here]
 ```
