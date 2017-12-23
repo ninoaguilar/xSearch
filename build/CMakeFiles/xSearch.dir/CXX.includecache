@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nino/FILES MINI/Archive/USU_Homework/PastClasses/Spring_15/CS_2420-CS3/searchEngine/searchEngine/src/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+string
+-
+chrono
+-
+thread
+-
+searchengine.h
+/Users/nino/FILES MINI/Archive/USU_Homework/PastClasses/Spring_15/CS_2420-CS3/searchEngine/searchEngine/src/searchengine.h
+
+/Users/nino/FILES MINI/Archive/USU_Homework/PastClasses/Spring_15/CS_2420-CS3/searchEngine/searchEngine/src/searchengine.cpp
+iostream
+-
+sstream
+-
+queue
+-
+iomanip
+-
+string
+-
+searchengine.h
+/Users/nino/FILES MINI/Archive/USU_Homework/PastClasses/Spring_15/CS_2420-CS3/searchEngine/searchEngine/src/searchengine.h
+
+/Users/nino/FILES MINI/Archive/USU_Homework/PastClasses/Spring_15/CS_2420-CS3/searchEngine/searchEngine/src/searchengine.h
+iostream
+-
+string
+-
+queue
+-
+
